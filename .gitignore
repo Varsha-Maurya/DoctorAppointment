@@ -1,6 +1,10 @@
+.idea/
 .idea/*
+.metadata
 .metadata/*
+.settings
 .settings/*
+build
 build/*
 .classpath.xml
 .metadata.lock
