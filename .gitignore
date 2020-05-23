@@ -1,0 +1,7 @@
+.idea/*
+.metadata/*
+.settings/*
+build/*
+.classpath.xml
+.metadata.lock
+.project.xml
